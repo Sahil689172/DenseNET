@@ -12,7 +12,8 @@ Title:
 Fatty Liver Classification via Risk-Controlled Neural Networks Trained on Grouped Ultrasound Image Data
 
 Link:
-https://doi.org/10.1038/s41598-024-57386-3
+https://www.nature.com/articles/s41598-024-57386-3?utm_source=chatgpt.com
+
 
 ---
 
